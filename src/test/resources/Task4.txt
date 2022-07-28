@@ -1,0 +1,3 @@
+css=.search3__button-svg
+
+//button[@type='submit']/span[.='Найти']
